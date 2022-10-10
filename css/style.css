@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    background-color: rgba(172, 255, 47, 0.486);
+}
+
+h1{
+    text-align: center;
+}
+
+.cadre{
+    border: 3px solid rgb(136, 65, 65);
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(172, 255, 47, 0.486);
+}
